@@ -1,0 +1,13 @@
+com\example\demo\ScdproiectApplication.class
+com\example\demo\DepartmentRepository.class
+com\example\demo\DoctorRepository.class
+com\example\demo\DepartmentController.class
+com\example\demo\DepartmentService.class
+com\example\demo\Department.class
+com\example\demo\Shift.class
+com\example\demo\Doctor.class
+com\example\demo\DoctorController.class
+com\example\demo\ShiftRepository.class
+com\example\demo\ShiftController.class
+com\example\demo\DoctorService.class
+com\example\demo\ShiftService.class
