@@ -1,0 +1,17 @@
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\bin\Debug\net8.0-windows\ProiectSCD.exe
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\bin\Debug\net8.0-windows\ProiectSCD.deps.json
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\bin\Debug\net8.0-windows\ProiectSCD.runtimeconfig.json
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\bin\Debug\net8.0-windows\ProiectSCD.dll
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\bin\Debug\net8.0-windows\ProiectSCD.pdb
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.Form1.resources
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.csproj.GenerateResource.cache
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.AssemblyInfoInputs.cache
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.AssemblyInfo.cs
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.csproj.CoreCompileInputs.cache
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.dll
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\refint\ProiectSCD.dll
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.pdb
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.genruntimeconfig.cache
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ref\ProiectSCD.dll
+D:\SCD\Proiect\ProiectSCD\ProiectSCD\obj\Debug\net8.0-windows\ProiectSCD.Properties.Resources.resources
